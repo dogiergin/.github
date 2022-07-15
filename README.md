@@ -1,3 +1,3 @@
-# Global-AI-Hub-Bootcamp
+# .github
 
 HELLO
